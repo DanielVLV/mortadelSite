@@ -1,0 +1,21 @@
+.img {
+  height: 300px;
+  width: 300px;
+  float: left;
+  margin-right: 15px;
+  border: solid 1px #ADD8E6;
+  border-radius: 15px;
+}
+
+.textContainer {
+  font-family: 'Comfortaa', sans-serif;
+  color: gold;
+  max-width: 800px;
+}
+
+.span {
+  font-family: "Lato Medium", sans-serif;
+  font-size: 20px;
+  font-style: oblique;
+  color: #ADD8E6
+}
